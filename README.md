@@ -41,20 +41,6 @@
     Everytime snake eats the apple its tail is incrementing.
   ### IncrementObjectMover.cs
     Snakes tail moving with the snake.
-## Pros/Cons
-  ### Pros
-    - Game is functionable.
-    - Snake appears and moves according to script instructions.
-    - 1 Random Food Appears on map.
-    - Snake can consume the food if it passes above it.
-    - Snake's tail gets bigger the more it consumes.
-    - Game ends when snake hits its tail.
-  ### Cons
-    - Top Scores doesn't work.
-    - No score is displayed during the game.
-    - No pop up if game is done.
-    - No more than 1 food.
-    - Snake can't hit the wall instead goes out of camera but continues moving.
-    
+
 ## Youtube Video Link
   https://youtu.be/KkSzbnxIMZs
