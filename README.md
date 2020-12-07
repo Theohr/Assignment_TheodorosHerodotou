@@ -1,4 +1,4 @@
-# Snake 2D in Unity C#
+# Snake Game 2D in Unity C#
 
   In order to complete the project i used the SOLID principles.
   
